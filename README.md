@@ -1,6 +1,3 @@
 # Projeto Android
 
-Uma pagina da web foi criada para comprir com o exercicio dado pelo professor do curso de HTML e CSS do Estudonauta  
----
-[Projeto Android](index.html)
----
+Projeto criado no curso de HTML5 e CSS3 do Estudonauta e utilizado no Projeto Portfólio, também do Estudonauta
