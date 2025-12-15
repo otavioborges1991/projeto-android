@@ -134,8 +134,8 @@ main a:hover{
     text-decoration: underline;
 }
 
-a.externo::after {
-    content: url(../link-solid.png);
+a.externo::be {
+    content: '🔗';
 }
 
 main img {
@@ -169,7 +169,7 @@ main h2 {
 }
 
 aside {
-    background-color: var(--cor0);
+    background-color: rgb(212, 248, 212);
     padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.5);
@@ -183,7 +183,12 @@ aside h3 {
     color: white;
 }
 
+aside p {
+    color: black;
+}
+
 ul {
+    color: black;
     list-style-position: inside;
     columns: 2;
     list-style-type: '✔️ '; /* check mark com um espaço*/
